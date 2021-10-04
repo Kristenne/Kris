@@ -2,7 +2,7 @@
 
 $vnome=$_GET["nome"];
 $vmail=$_GET["email"];
-$vtel=$_GET["Telefone"];
+$vtel=$_GET["telefone"];
 $vmsg=$_GET["msg"];
 
 
