@@ -7,6 +7,6 @@ $vmsg=$_GET["msg"];
 
 
 
-echo "nome: ".$vnome. "<br/>email: ".$vmail"<br/>Telefone: ".$vtel."<br/>msg: ".$vmsg."<br/>"
+echo "nome: ".$vnome. "<br/>" "email: ".$vmail."<br/>" "Telefone: ".$vtel."<br/>" "msg: ".$vmsg."<br/>"
 
 ?>
