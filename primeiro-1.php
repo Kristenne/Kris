@@ -1,12 +1,12 @@
 <?php
 
 $vnome=$_GET["nome"];
-$vend=$_GET["Endereço"];
-$vemail=$_GET["E-mail"];
+$vmail=$_GET["email"];
 $vtel=$_GET["Telefone"];
 $vmsg=$_GET["msg"];
 
 
-echo "nome: ".$vnome. "<br/>Endereço: ".$vend."<br/>E-mail: ".$vemail."<br/>Telefone: ".$vtel."<br/>" "msg: ".$vmsg. "<br/>";
+
+echo "nome: ".$vnome. "<br/>email: ".$vmail"<br/>Telefone: ".$vtel."<br/>msg: ".$vmsg."<br/>"
 
 ?>
